@@ -1,4 +1,4 @@
-package ie.gmit.sw.dsProject;
+package ie.gmit.sw.REST;
 
 import java.net.MalformedURLException;
 import java.rmi.Naming;
@@ -69,6 +69,7 @@ public class MyResource {
     	ds.update(o);
     }
     
+    //Error not returning resource when submitting data using form
     /*@POST
     @Path("/create")
     @Consumes(MediaType.APPLICATION_FORM_URLENCODED)
