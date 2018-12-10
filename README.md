@@ -86,5 +86,27 @@ I tested my CRUD functionality using the Postman API.
 #### Read Orders
 ![read](https://i.imgur.com/mphdWFK.png)
 
+---
+
+### Known Bugs
+When running the RMIServer on my laptop I get the following error:
+
+![error](https://i.imgur.com/undefined.png)
+
+I had this issue throughout the module. I still haven't understood what causes this error but I have worked around the issue by turning my WiFi off when running the RMIServer.
+
+---
+
+### Conclusion
+I enjoyed working on this project, although I ran into a lot of issues along the way. 
+
+I took a lot of experience from creating the application itself, and will endeavour to apply these technologies used in the future.
+
+I would definitely like to see how I could continue working on this application as I feel I only started to understand how it worked within the final couple of weeks. 
+
+If I managed my time better I would have developed the Web Client a lot better and would have possibly made time for the extra features outlined in the project.pdf.
+
+All in all, I am happy with the attempt I made and can take away valuable experienece working with Java RMI, JAX-RS/Jersey, Postman etc.
+
 
 
