@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\conor\4th Year\Distributed Systems\g00291461_dsProject\ds_Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\conor\4th Year\Distributed Systems\g00291461_dsProject\ds_Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\web-service" path="/web-service" reloadable="true" source="org.eclipse.jst.jee.server:web-service"/></Host>
+      <Context docBase="C:\Users\conor\4th-Year\Distributed Systems\g00291461_dsProject\DS_Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\conor\4th-Year\Distributed Systems\g00291461_dsProject\DS_Project\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\dsProject" path="/dsProject" reloadable="true" source="org.eclipse.jst.jee.server:dsProject"/></Host>
     </Engine>
   </Service>
 </Server>
