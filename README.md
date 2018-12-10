@@ -91,7 +91,7 @@ I tested my CRUD functionality using the Postman API.
 ### Known Bugs
 When running the RMIServer on my laptop I get the following error:
 
-![error](https://i.imgur.com/undefined.png)
+![error](https://i.ibb.co/fS3spGN/error.png)
 
 I had this issue throughout the module. I still haven't understood what causes this error but I have worked around the issue by turning my WiFi off when running the RMIServer.
 
