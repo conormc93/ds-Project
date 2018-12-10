@@ -43,6 +43,6 @@ VALUES	(1, "John", "Doe"),
 INSERT INTO orders (order_id, start_date, end_date, cust_id, car_id)
 VALUES	(1, "2018-12-05", "2018-12-19", 1, 3), 
 		(2, "2018-12-17", "2018-12-26", 2, 2), 
-		(3, "2018-12-19", "2018-12-31", 3, 1);	 
+		(3, "2018-12-19", "2018-12-31", 3, 1); 
 		
 SELECT * FROM orders;
