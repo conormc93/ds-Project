@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.xml.datatype.XMLGregorianCalendar"/>
-<fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
-<fullyQualifiedTypeName name="ie.gmit.sw.rmi.RMIClient"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
-</qualifiedTypeNameHistroy>

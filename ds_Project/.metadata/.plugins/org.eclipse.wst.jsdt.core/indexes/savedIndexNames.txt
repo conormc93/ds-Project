@@ -1,4 +1,0 @@
-INDEX VERSION 1.4+C:\Users\conor\4th-Year\Distributed Systems\g00291461_dsProject\DS_Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-810726016.index
-512786023.index
-89856451.index
